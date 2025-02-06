@@ -3,7 +3,6 @@ pandas
 numpy>=1.25.0
 seaborn
 urllib3
-distutils
 streamlit
 mlflow
 scikit-learn
